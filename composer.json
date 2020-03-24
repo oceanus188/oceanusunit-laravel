@@ -1,0 +1,17 @@
+{
+    "name": "oceanus\/oceanusunit-laravel",
+    "description": "A simple unit test component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oceanus",
+            "email": "oceanus188@yeah.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oceanus\\OceanusunitLaravel\\": "src"
+        }
+    }
+}
